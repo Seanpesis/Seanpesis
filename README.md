@@ -29,4 +29,5 @@ Second-year Computer Science Student
 ## 📫 Let's Connect!
 
 LinkedIn: **www.linkedin.com/in/sean-pesis-28b3b0225**
+
 GitHub: **https://github.com/Seanpesis**
