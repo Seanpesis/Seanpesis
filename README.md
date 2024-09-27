@@ -13,7 +13,7 @@ Second-year Computer Science Student
 ## 🛠 Skills
 
 - Languages: **Kotlin, Java, Swift, Python, HTML, CSS, JavaScript , C , C++**
-- Frameworks: **React, Node.js, Flask, SwiftUI Tools: Git, Visual Studio, Firebase**
+- Frameworks: **React, Node.js, Flask, SwiftUI Tools: Git, Visual Studio, Firebase , Xcode**
 - Databases: **MongoDB, MySQL**
 
 ## 🔥 My Projects
