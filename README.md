@@ -4,8 +4,8 @@ Second-year Computer Science Student
 ## 🚀 About Me
 
 - 🔭 I’m currently working on **side projects and learning various technologies**
-- 🌱 I’m studying **Computer Science (BSc, 2nd year)** 
-- 👯 I’m looking to collaborate on **Kotlin, Java, and Python projects** 
+- 🎓 I’m studying **Computer Science (BSc, 2nd year)** 
+- 👀 I’m looking to collaborate on **Kotlin, Java, and Python projects** 
 - 🤔 I’m looking for **guidance in open-source contributions and problem-solving challenges** 
 - 💬 Feel free to ask me about **software development, debugging, or game design** 
 - 📫 Reach me at: **sean.pesis1@gmail.com**
