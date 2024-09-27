@@ -31,3 +31,5 @@ Second-year Computer Science Student
 LinkedIn: **www.linkedin.com/in/sean-pesis-28b3b0225**
 
 GitHub: **https://github.com/Seanpesis**
+
+Portfolio - **https://seanpesis.netlify.app/**
