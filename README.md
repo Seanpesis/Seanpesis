@@ -1,10 +1,10 @@
 # Hi there, I'm Sean 👋
-Second-year Computer Science Student
+Third-year Computer Science Student
 
 ## 🚀 About Me
 
 - 🔭 I’m currently working on **side projects and learning various technologies**
-- 🎓 I’m studying **Computer Science (BSc, 2nd year)** 
+- 🎓 I’m studying **Computer Science (BSc, 3rd year)** 
 - 👀 Looking to collaborate on **CI/CD pipeline, Jenkins, Kubernetes, and Python projects**
 - 🤔 I’m looking for **guidance in open-source contributions and problem-solving challenges** 
 - 💬 Feel free to ask me about **software development, debugging, or game design** 
