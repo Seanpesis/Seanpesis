@@ -12,10 +12,13 @@ Second-year Computer Science Student
 
 ## 🛠 Skills
 
-- Languages: **Kotlin, Java, Swift, Python, HTML, CSS, JavaScript , C , C++**
-- Frameworks: **React, Node.js, Flask, SwiftUI**
-- Tools: **Git, Visual Studio, Firebase , Xcode**
-- Databases: **MongoDB, MySQL**
+- Programming Languages: **C / C++ / C#, Java, Python, Kotlin, Swift (Swift Playgrounds, Xcode)**
+- Web Development: **HTML, React**
+- Version Control: **Git (GitHub, GitLab)**
+- Scripting: **Bash, PowerShell**
+- DevOps & CI/CD: **CI/CD Pipeline (Jenkins, Azure Pipelines), Kubernetes, Docker**
+- Cloud Platforms: **Azure, AWS**
+- Databases: **SQL , MongoDB**
 
 ## 🔥 My Projects
 
