@@ -14,7 +14,7 @@ Third-year Computer Science Student
 
 - Programming Languages: **C / C++ / C#, Java, Python, Kotlin, Swift (Swift Playgrounds, Xcode)**
 - Web Development: **HTML, React**
-- Version Control: **Git (GitHub, GitLab)**
+- Version Control: **Visual Studio, Firebase, Git (GitHub, GitLab)**
 - Scripting: **Bash, PowerShell**
 - DevOps & CI/CD: **CI/CD Pipeline (Jenkins, Azure Pipelines), Kubernetes, Docker, npx, Helm**
 - Monitoring & Logging: **Prometheus, Grafana**
