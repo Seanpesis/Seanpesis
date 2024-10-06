@@ -16,8 +16,12 @@ Third-year Computer Science Student
 - Web Development: **HTML, React**
 - Version Control: **Git (GitHub, GitLab)**
 - Scripting: **Bash, PowerShell**
-- DevOps & CI/CD: **CI/CD Pipeline (Jenkins, Azure Pipelines), Kubernetes, Docker**
+- DevOps & CI/CD: **CI/CD Pipeline (Jenkins, Azure Pipelines), Kubernetes, Docker, npx, Helm**
+- Monitoring & Logging: **Prometheus, Grafana**
+- ChatOps: **Slack, Slack API**
 - Cloud Platforms: **Azure, AWS**
+- Security: **DevSecOps Practices, Jenkins Security Plugins**
+- Infrastructure as Code (IaC): **kubectl, Helm Charts**
 - Databases: **SQL , MongoDB**
 
 ## 🔥 My Projects
