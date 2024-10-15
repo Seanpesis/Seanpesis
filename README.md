@@ -12,24 +12,25 @@ Third-year Computer Science Student
 
 ## 🛠 Skills
 
-- Programming Languages: **C / C++ / C#, Java, Python, Kotlin, Swift (Swift Playgrounds, Xcode)**
+- Programming Languages: **C / C++ / C#, Java, Python, Kotlin, JavaScript, Swift (Swift Playgrounds, Xcode)**
 - Web Development: **HTML, React**
-- Version Control: **Visual Studio, Firebase, Git (GitHub, GitLab)**
+- Version Control: **Visual Studio, Firebase, GitHub Actions, Git (GitHub, GitLab)**
 - Scripting: **Bash, PowerShell**
-- DevOps & CI/CD: **CI/CD Pipeline (Jenkins, Azure Pipelines), Kubernetes, Docker, npx, Helm**
-- Monitoring & Logging: **Prometheus, Grafana**
+- DevOps & CI/CD: **CI/CD Pipeline (Jenkins, Azure Pipelines), Ansible, Kubernetes, Docker, npx, Helm**
+- Monitoring & Logging: **Prometheus, Grafana, Elastic Stack (ELK)**
 - ChatOps: **Slack, Slack API**
-- Cloud Platforms: **Azure, AWS**
-- Security: **DevSecOps Practices, Jenkins Security Plugins**
-- Infrastructure as Code (IaC): **kubectl, Helm Charts**
+- Cloud Platforms: **Azure, AWS, AWS Elastic Beanstalk, AWS Lambda**
+- Security: **DevSecOps Practices, Jenkins Security Plugins, AWS IAM**
+- Infrastructure as Code (IaC): **kubectl, Terraform, Helm Charts**
 - Databases: **SQL , MongoDB**
 
 ## 🔥 My Projects
 
 - Friendly Place: Social platform for sharing experiences (React, Node.js, MongoDB). 
 - Pactroll: Game similar to Pac-Man but with unique twists (Android Studio, Kotlin). 
-- Tetris Game: Developed in Swift for iPad with responsive controls (Swift, Xcode). 
-
+- Tetris Game: Developed in Swift for iPad with responsive controls (Swift, Xcode).
+- Devops Project: The project is a DevOps Portfolio that automates CI/CD pipelines, manages infrastructure with Terraform, and deploys applications using Docker and (CI/CD, Terraform, Docker, Kubernetes).
+- Devsecops-App: Devsecops-App is a comprehensive DevSecOps platform that integrates Jenkins and Kubernetes with Slack, enabling secure and automated CI/CD pipeline management through intuitive ChatOps interactions (Jenkins, Kubernetes, Docker, Helm, Prometheus, Grafana, Node.js, NPM, Jest, GitHub, kubectl).
 ## 📈 GitHub Stats
 
 ![Seanpesis's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seanpesis&show_icons=true&theme=radical)
