@@ -31,6 +31,7 @@ Third-year Computer Science Student
 - Tetris Game: Developed in Swift for iPad with responsive controls (Swift, Xcode).
 - Devops Project: The project is a DevOps Portfolio that automates CI/CD pipelines, manages infrastructure with Terraform, and deploys applications using Docker and (CI/CD, Terraform, Docker, Kubernetes).
 - Devsecops-App: Devsecops-App is a comprehensive DevSecOps platform that integrates Jenkins and Kubernetes with Slack, enabling secure and automated CI/CD pipeline management through intuitive ChatOps interactions (Jenkins, Kubernetes, Docker, Helm, Prometheus, Grafana, Node.js, NPM, Jest, GitHub, kubectl).
+- Movie Recommendations: Platform to discover and get recommendations for movies based on ratings, genres, titles, and directors (React, CSS, Axios, Git & GitHub).
 ## 📈 GitHub Stats
 
 ![Seanpesis's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seanpesis&show_icons=true&theme=radical)
