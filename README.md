@@ -204,7 +204,7 @@ Platform to discover and get movie recommendations based on ratings, genres, tit
   </a>
   <!-- Portfolio -->
   <a href="https://seanpesis.netlify.app/" target="blank">
-    <img align="center" src="https://github.com/Seanpesis/my-portfolio/blob/main/public/images/Seanpesis.png?raw=true" alt="Portfolio - Sean Pesis" height="40" width="40" />
+    <img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngall.com%2Fwebsite-png%2F&psig=AOvVaw3K9ECIucjilrYBq5oSCnVD&ust=1732624644441000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJjW1fa_94kDFQAAAAAdAAAAABAT" alt="Portfolio - Sean Pesis" height="40" width="40" />
   </a>
   <!-- Email -->
   <a href="mailto:sean.pesis1@gmail.com" target="blank">
