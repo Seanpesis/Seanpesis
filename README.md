@@ -203,7 +203,7 @@ Platform to discover and get movie recommendations based on ratings, genres, tit
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Sean Pesis" height="30" width="40" />
   </a>
   <!-- Portfolio -->
-  <a href="https://seanpesis.github.io/my-portfolio/" target="blank">
+  <a href="[https://seanpesis.github.io/my-portfolio/](https://seanpesis.netlify.app/)" target="blank">
     <img align="center" src="https://github.com/Seanpesis/my-portfolio/blob/main/public/images/Seanpesis.png?raw=true" alt="Portfolio - Sean Pesis" height="40" width="40" />
   </a>
   <!-- Email -->
