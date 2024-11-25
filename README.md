@@ -70,7 +70,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   </a>
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
+    <img src="[https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cleanpng.com%2Fpng-flask-python-web-framework-representational-state-6384161%2F&psig=AOvVaw0R_e2M4phoJUtucIv_FOuP&ust=1732623497765000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOCa9NK794kDFQAAAAAdAAAAABAE)" alt="flask" width="40" height="40"/>
   </a>
   <br><br>
 
