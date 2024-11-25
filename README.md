@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sean Pesis</h1>
 <h3 align="center">Third-year Computer Science Student and Devops Engineer</h3>
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=seanpesis&label=Profile%20views&color=0e75b6&style=flat" alt="seanpesis" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=seanpesis" alt="seanpesis" /></a> </p>
+
 ---
 
 ## 🚀 About Me
