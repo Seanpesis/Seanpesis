@@ -203,11 +203,11 @@ Platform to discover and get movie recommendations based on ratings, genres, tit
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Sean Pesis" height="30" width="40" />
   </a>
   <!-- Portfolio -->
-  <a href="https://your-portfolio-website-url.com" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/your-github-username/your-repo-name/main/assets/image.png" alt="Portfolio" height="30" width="40" />
+  <a href="https://seanpesis.github.io/my-portfolio/" target="blank">
+    <img align="center" src="https://github.com/Seanpesis/my-portfolio/blob/main/public/images/Seanpesis.png?raw=true" alt="Portfolio - Sean Pesis" height="40" width="40" />
   </a>
   <!-- Email -->
   <a href="mailto:sean.pesis1@gmail.com" target="blank">
-    <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Email" height="30" width="40" />
+    <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Email - Sean Pesis" height="30" width="40" />
   </a>
 </p>
