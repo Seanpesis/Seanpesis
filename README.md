@@ -44,8 +44,6 @@ Platform to discover and get movie recommendations based on ratings, genres, tit
 
 ## 📈 GitHub Stats  
 
-| <a href="https://github.com/Seanpesis/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Seanpesis&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Seanpesis's github stats" /></a> | <a href="https://github.com/Seanpesis/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seanpesis&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=seanpesis&show_icons=true&locale=en&layout=compact" alt="seanpesis" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=seanpesis&show_icons=true&locale=en" alt="seanpesis" /></p>
