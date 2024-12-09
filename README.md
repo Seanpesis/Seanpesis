@@ -165,22 +165,31 @@
 
 ## 🔥 My Projects  
 
-### 1. Friendly Place  
+### 1. Interactive Hand-Controlled Pong Game  
+An interactive Pong game built with Python, OpenCV, and MediaPipe Hands that allows players to control paddles using real-time hand movements via a webcam, featuring both single-player and multiplayer modes, dynamic scoring, and increasing ball speed for enhanced gameplay (Python, OpenCV, MediaPipe Hands, NumPy).
+
+### 2. Hand Gesture Tic-Tac-Toe  
+Hand Gesture Tic-Tac-Toe is an interactive game developed using Python, OpenCV, and Mediapipe, enabling users to play Tic-Tac-Toe through real-time hand gesture recognition (Python, OpenCV, Mediapipe, NumPy).
+
+### 3. Emoji Gesture App  
+An innovative application that transforms hand gestures into emojis using real-time computer vision and AI. Built with Python, OpenCV, and MediaPipe, this app streamlines digital communication by allowing users to generate emojis through natural hand movements (Python, OpenCV, MediaPipe, PyQt, NumPy).
+
+### 4. Friendly Place  
 Social platform for sharing experiences (React, Node.js, MongoDB).  
 
-### 2. Pactroll  
+### 5. Pactroll  
 Game similar to Pac-Man but with unique twists (Android Studio, Kotlin).  
 
-### 3. Tetris Game  
+### 6. Tetris Game  
 Developed in Swift for iPad with responsive controls (Swift, Xcode).  
 
-### 4. DevOps Portfolio  
+### 7. DevOps Portfolio  
 Automates CI/CD pipelines, manages infrastructure with Terraform, and deploys applications using Docker (CI/CD, Terraform, Docker, Kubernetes).  
 
-### 5. DevSecOps-App  
+### 8. DevSecOps-App  
 Comprehensive DevSecOps platform integrating Jenkins and Kubernetes with Slack for secure, automated CI/CD pipeline management via ChatOps (Jenkins, Kubernetes, Docker, Helm, Prometheus, Grafana, Node.js, NPM, Jest, GitHub, kubectl).  
 
-### 6. Movie Recommendations  
+### 9. Movie Recommendations  
 Platform to discover and get movie recommendations based on ratings, genres, titles, and directors (React, CSS, Axios, Git & GitHub).  
 
 ---
@@ -204,7 +213,7 @@ Platform to discover and get movie recommendations based on ratings, genres, tit
   </a>
   <!-- Portfolio -->
   <a href="https://seanpesis.netlify.app/" target="blank">
-    <img align="center" src="https://github.com/Seanpesis/my-portfolio/blob/main/public/images/Seanpesis.png?raw=true" alt="Portfolio - Sean Pesis" alt="Portfolio - Sean Pesis" height="40" width="40" />
+    <img align="center" src="https://github.com/Seanpesis/my-portfolio/blob/main/public/images/Seanpesis.png?raw=true" alt="Portfolio - Sean Pesis" height="40" width="40" />
   </a>
   <!-- Email -->
   <a href="mailto:sean.pesis1@gmail.com" target="blank">
