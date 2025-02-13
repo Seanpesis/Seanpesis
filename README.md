@@ -12,10 +12,10 @@
 
 - 🔭 I’m currently working on **side projects and learning various technologies**  
 - 🎓 I’m studying **Computer Science (BSc, 3rd year)**  
-- 👀 Looking to collaborate on **CI/CD pipelines, Jenkins, Kubernetes, and Python projects**  
+- 👀 Looking to collaborate on **Seeking collaboration on Full Stack development projects, focusing on modern web technologies, scalable architectures, and robust backend solutions.**  
 - 🤔 I’m looking for **guidance in open-source contributions and problem-solving challenges**
 - 👨‍💻 All of my projects are available at [https://seanpesis.netlify.app/](https://seanpesis.netlify.app/)
-- 💬 Feel free to ask me about **software development, debugging, or game design**  
+- 💬 Feel free to ask me about **Software Development, Full Stack Engineer, or Game Design**  
 - 📫 Reach me at: **[sean.pesis1@gmail.com](mailto:sean.pesis1@gmail.com)**  
 
 ---
