@@ -191,7 +191,8 @@ Comprehensive DevSecOps platform integrating Jenkins and Kubernetes with Slack f
 
 ### 9. Movie Recommendations  
 Platform to discover and get movie recommendations based on ratings, genres, titles, and directors (React, CSS, Axios, Git & GitHub).  
-
+### 10. TaskIt Client  
+A Windows desktop task management application built with WPF and powered by SQLite. It offers seamless local data synchronization, intuitive task tracking, and a modern, user-friendly interface that helps users manage and monitor their daily tasks efficiently (WPF, C#, SQLite, Entity Framework Core).
 ---
 
 ## 📈 GitHub Stats  
