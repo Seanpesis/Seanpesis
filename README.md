@@ -195,6 +195,9 @@ Platform to discover and get movie recommendations based on ratings, genres, tit
 ### 10. TaskIt Client 
 A windows desktop task management application built with WPF and powered by SQLite. It offers seamless local data synchronization, intuitive task tracking, and a moder, user-friendly interface that helps users manage and monitor their daily tasks efficiently (WPF, C#, SQLite, Entity Framework Core).
 
+### 11. Task Manager (Linux C Project)
+A terminal-based task management system built in C, running on Linux (WSL2). It supports multi-user functionality, task history, due dates, and advanced sorting by name, status, or deadline — all stored in user-specific text files. Designed for system-level practice and efficient command-line productivity. (C, GCC, Linux, WSL2, System V IPC, Git, GitHub)
+
 ---
 
 ## 📈 GitHub Stats  
