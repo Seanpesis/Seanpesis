@@ -202,6 +202,9 @@ A windows desktop task management application built with WPF and powered by SQLi
 ### 11. Task Manager (Linux C Project)
 A terminal-based task management system built in C, running on Linux (WSL2). It supports multi-user functionality, task history, due dates, and advanced sorting by name, status, or deadline — all stored in user-specific text files. Designed for system-level practice and efficient command-line productivity. (C, GCC, Linux, WSL2, System V IPC, Git, GitHub)
 
+### 12. ShelterGuard
+is a web application that helps drivers in Israel plan safer routes by mapping nearby public shelters and analyzing the safety level of each route.
+
 ---
 
 ## 📈 GitHub Stats  
