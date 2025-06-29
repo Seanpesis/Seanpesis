@@ -14,7 +14,6 @@
 - 🎓 I’m studying **Computer Science (BSc, 3rd year)**  
 - 👀 Looking to collaborate on **Full Stack development projects, focusing on modern web technologies, Python projects and robust backend solutions.**  
 - 🤔 I’m looking for **guidance in open-source contributions and problem-solving challenges**
-- 👨‍💻 All of my projects are available at [https://seanpesis.netlify.app/](https://seanpesis.netlify.app/)
 - 💬 Feel free to ask me about **Software Development, Full Stack Engineer, or Game Design**  
 - 📫 Reach me at: **[sean.pesis1@gmail.com](mailto:sean.pesis1@gmail.com)**  
 
