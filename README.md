@@ -56,14 +56,6 @@
 
 ---
 
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=seanpesis&theme=onedark&margin-w=15&margin-h=15" />
-</p>
-
----
-
 ## 📊 GitHub Analytics
 
 <p align="center">
