@@ -67,12 +67,12 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=seanpesis&show_icons=true&theme=tokyonight" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seanpesis&layout=compact&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=seanpesis&show_icons=true&locale=en&layout=compact" alt="seanpesis" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=seanpesis&show_icons=true&locale=en" alt="seanpesis" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seanpesis&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seanpesis&" alt="seanpesis" />
 </p>
 
 ---
