@@ -15,7 +15,8 @@
 
 ## 🧠 About Me
 
-🎓 **B.Sc. in Computer Science Graduate** 💻 **Full-Stack Engineer** with a deep-rooted passion for **Backend Architecture** 🧩 Focused on building **performant, scalable systems** and **clean, maintainable codebases**
+🎓 **B.Sc. in Computer Science Graduate**
+💻 **Full-Stack Engineer** with a deep-rooted passion for **Backend Architecture** 🧩 Focused on building **performant, scalable systems** and **clean, maintainable codebases**
 
 - 🔭 **Currently:** Building production-ready distributed systems and exploring advanced DevOps patterns.
 - ⚡ **Specialties:** Microservices, System Design, and API Optimization.
