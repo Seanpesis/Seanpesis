@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Full-Stack Engineer | Backend Specialist</h3>
 
 <p align="center">
-  <a href="https://sean-p.info/" target="_blank"><b>🌐 Portfolio</b></a> •
+  <a href="https://sean-pesis-portfolio.vercel.app/" target="_blank"><b>🌐 Portfolio</b></a> •
   <a href="https://www.linkedin.com/in/sean-pesis-28b3b0225" target="_blank"><b>LinkedIn</b></a> •
   <a href="mailto:sean.pesis1@gmail.com"><b>Email</b></a>
 </p>
