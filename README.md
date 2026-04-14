@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Sean Pesis</h1>
-<h3 align="center">🚀 Third-Year Computer Science Student | Full-Stack Engineer</h3>
+<h3 align="center">🚀 Full-Stack Engineer | Backend Specialist</h3>
 
 <p align="center">
   <a href="https://sean-p.info/" target="_blank"><b>🌐 Portfolio</b></a> •
@@ -15,43 +15,35 @@
 
 ## 🧠 About Me
 
-🎓 **B.Sc. Computer Science (3rd Year)**  
-💻 **Full-Stack Engineer** with strong backend orientation  
-🧩 Passionate about building **scalable systems**, **clean architectures**, and **high-quality products**
+🎓 **B.Sc. in Computer Science Graduate** 💻 **Full-Stack Engineer** with a deep-rooted passion for **Backend Architecture** 🧩 Focused on building **performant, scalable systems** and **clean, maintainable codebases**
 
-- 🔭 Currently working on **side projects & advanced system designs**
-- 🌱 Constantly learning **new technologies, cloud & distributed systems**
-- 👯 Open to collaboration on **Full-Stack, Backend, and Python-based projects**
-- 🤝 Interested in **open-source contributions & challenging engineering problems**
-- 🎮 Background & interest in **Game Development and Interactive Systems**
+- 🔭 **Currently:** Building production-ready distributed systems and exploring advanced DevOps patterns.
+- ⚡ **Specialties:** Microservices, System Design, and API Optimization.
+- 👯 **Open to:** Challenging Full-Stack or Backend roles and collaborative Open Source projects.
+- 🎮 **Interests:** Beyond the web, I have a background in Game Development and Interactive Systems.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💡 Languages
+### 💻 Core Languages & Backend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,cs,go,rust,php,js,ts,dart,kotlin,swift" />
+  <img src="https://skillicons.dev/icons?i=python,go,rust,js,ts,java,cpp,cs,nodejs,nestjs,django,dotnet,spring" />
 </p>
 
-### 🌐 Frontend
+### 🌐 Frontend & Mobile
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,vue,html,css,flutter,unity" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,vue,flutter,unity,html,css" />
 </p>
 
-### ⚙️ Backend & Frameworks
+### ☁️ Infrastructure & Databases
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,django,dotnet,spring" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,jenkins,postgres,mongodb,redis,rabbitmq,mysql,firebase" />
 </p>
 
-### ☁️ Cloud, DevOps & Tools
+### 🛠️ Tooling & Environments
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,jenkins,linux,git,figma,postman" />
-</p>
-
-### 🗄️ Databases & Messaging
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,postgres,redis,firebase,rabbitmq" />
+  <img src="https://skillicons.dev/icons?i=linux,git,postman,figma,githubactions" />
 </p>
 
 ---
@@ -59,11 +51,8 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=seanpesis&show_icons=true&locale=en&layout=compact" alt="seanpesis" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seanpesis&" alt="seanpesis" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=seanpesis&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="seanpesis" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=seanpesis&theme=vision-friendly-dark" alt="seanpesis" />
 </p>
 
 ---
@@ -71,7 +60,7 @@
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/sean-pesis" target="_blank">
+  <a href="https://linkedin.com/in/sean-pesis-28b3b0225" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" />
   </a>
 </p>
